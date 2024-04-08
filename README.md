@@ -4,7 +4,9 @@ Software Development Life Cycle (SDLC) is a process used by the software industr
 
 ![sdlc](/sdlc_software_development_lifecycle.jpg)
 
-SDLC is the acronym of Software Development Life Cycle.
+- SDLC is the acronym of Software Development Life Cycle.
 It is also called as Software Development Process.
-SDLC is a framework defining tasks performed at each step in the software development process.
-ISO/IEC 12207 is an international standard for software life-cycle processes. It aims to be the standard that defines all the tasks required for developing and maintaining software.
+
+- SDLC is a framework defining tasks performed at each step in the software development process.
+
+- ISO/IEC 12207 is an international standard for software life-cycle processes. It aims to be the standard that defines all the tasks required for developing and maintaining software.
