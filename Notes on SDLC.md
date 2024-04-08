@@ -52,7 +52,7 @@ Overall, the use of SDLC provides organizations with a structured and systematic
 
 
 # The Seven Phases of the SDLC
-## Detailes section of the SDLC
+## Summary section of the SDLC
 ![sdlc](/SDLC%207.png)
 
 This comprehensive outline provides a structured approach to software development, covering each phase of the Software Development Life Cycle (SDLC) from planning to operations and maintenance. Let's summarize the key points highlighted in each phase:
